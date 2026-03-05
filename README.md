@@ -2,7 +2,7 @@
 
 <!-- (Opcional) GIF/Animação no topo -->
 <!-- Você pode trocar por outro depois -->
-<img src="https://pin.it/NgbQKqufL" width="420" />
+<img src="Ichigo.gif" width="60%" />
 
 # Christian A. Batista
 **Ciência da Computação • Iniciante • Foco: Cybersecurity & Back-end**  
