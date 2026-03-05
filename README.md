@@ -4,7 +4,7 @@
 <!-- Você pode trocar por outro depois -->
 <img src="Ichigo.gif" width="60%" />
 
-# Christian A. Batista
+ Christian A.
 **Ciência da Computação • Iniciante • Foco: Cybersecurity & Back-end**  
 📍 São Paulo - BR
 
