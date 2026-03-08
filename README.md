@@ -68,12 +68,6 @@ Hello! I'm **Christian** — a Computer Science student starting from zero and b
 <img height="160" src="https://streak-stats.demolab.com?user=iikxwl&theme=tokyonight&hide_border=true" />
 
 </div>
-
-### Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iikxwl&theme=tokyo-night" />
-</div>
-
 ---
 
 ### Random Dev Quote
@@ -89,5 +83,3 @@ Hello! I'm **Christian** — a Computer Science student starting from zero and b
 </div>
 
 ---
-
-⭐️ From **iikxwl** with ❤️
