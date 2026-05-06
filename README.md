@@ -69,17 +69,3 @@ Hello! I'm **Christian** — a Computer Science student starting from zero and b
 
 </div>
 ---
-
-### Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
----
-
-### Visitor Count
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=iikxwl&style=for-the-badge&color=111111" />
-</div>
-
----
