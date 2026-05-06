@@ -58,14 +58,3 @@ Hello! I'm **Christian** — a Computer Science student starting from zero and b
 </div>
 
 ---
-
-## Statistics
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iikxwl&layout=compact&theme=tokyonight" />
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=iikxwl&show_icons=true&hide_title=true&theme=tokyonight" />
-
-<img height="160" src="https://streak-stats.demolab.com?user=iikxwl&theme=tokyonight&hide_border=true" />
-
-</div>
----
