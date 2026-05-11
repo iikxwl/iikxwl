@@ -7,7 +7,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christianabatista/)
 [![Email](https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christian.abatista07@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=githubpages&logoColor=white)](https://iikxwl.github.io/)
 
 </div>
 
